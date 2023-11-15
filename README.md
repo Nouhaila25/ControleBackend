@@ -1,4 +1,6 @@
 # ControleBackend
+structure de la base de donées 
+![Capture d’écran (235)](https://github.com/Nouhaila25/ControleBackend/assets/116907282/3fdd8909-f755-492d-a079-5db43d9d4bc9)
 afficher tous les employes
 ![Capture d’écran (232)](https://github.com/Nouhaila25/ControleBackend/assets/116907282/4b55f588-78b5-4727-bdcb-af059f3d3a3d)
 ajouter un employe
